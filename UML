@@ -1,0 +1,37 @@
+//Erandi Yoan Candia Alonso 
+using System;
+class Departamento
+{
+   public string Nombre {get; set;} 
+   
+   public void MostrarProfesor(Profesor p)
+   {
+       Console.WriteLine("Profesor" + p.Nombre);
+       Console.WriteLine("Departamento" + Nombre);
+   }
+}
+
+
+
+class Profesor
+{
+    public string Nombre {get; set;} 
+}
+
+
+
+
+class Program
+{
+    static void Main()
+    {
+      // la creacion del objeto profesor 
+      Profesor profe=new Profesor();
+      profe.Nombre="Vera"; 
+      // creacio  de un nuevo onjeto departamento 
+      Departamento poo=new Departamento();
+      poo.Nombre="Programacion Orientada a Objetos";
+      
+      poo.MostrarProfesor(profe);
+    }
+}
