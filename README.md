@@ -9,7 +9,7 @@ lo hace con clases, metodos
 
 Requerimientos tecnicos:
 Computadora 
-app de c#
-app de diagrama
+,app de c#
+,app de diagrama
 
 
