@@ -1,2 +1,9 @@
-# Agregacion-UML-
-Muestra como usar la agregr
+¿que es?
+
+¿que hace?
+
+¿como lo hace?
+
+Requerimientos tecnicos:
+
+
